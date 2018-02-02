@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InternshalaApp</string>
+    <string name="button_event_viewholder">Interested</string>
+    <string name="signup">Not a user ! Signup Here</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+    <string name="login_dialog_title">LOGIN HERE</string>
+    <string name="signup_dialog_title">SIGNUP HERE</string>
+
+</resources>

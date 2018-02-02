@@ -1,0 +1,6 @@
+
+https://developer.android.com/topic/libraries/architecture/room.html
+This  library allows the database coding a clean one and removes the hardcoding of strings.
+
+The Room persistence library provides an abstraction layer over SQLite to
+allow fluent database access while harnessing the full power of SQLite.
