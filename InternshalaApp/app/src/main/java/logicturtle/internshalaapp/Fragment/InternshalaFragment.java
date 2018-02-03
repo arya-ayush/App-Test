@@ -111,12 +111,11 @@ abstract public class InternshalaFragment extends Fragment {
         showDialog();
     }
 
-    protected final void replaceFragment(Fragment launchingFragment, int containerId, Fragment currentFragmentObject, boolean addToBackStack) {
+    protected final void replaceFragment(Fragment launchingFragment, int containerId, Fragment currentFragmentObject) {
         manager = getFragmentManager();
         FragmentTransaction transaction = manager.beginTransaction();
         transaction.hide(currentFragmentObject);
         transaction.add(containerId, launchingFragment);
-        transaction.addToBackStack(launchingFragment.toString());
         transaction.commit();
     }
 

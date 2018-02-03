@@ -56,7 +56,7 @@ public class DashboardFragment extends InternshalaFragment {
     @OnClick(R.id.fab)
     void addEvent() {
 
-        replaceFragment(new EventFragment(), R.id.container, this, true);
+        replaceFragment(new EventFragment(), R.id.container, this);
 
     }
 

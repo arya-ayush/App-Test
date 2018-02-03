@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762984612660",
+    "firebase_url": "https://grandmintapp.firebaseio.com",
+    "project_id": "grandmintapp",
+    "storage_bucket": "grandmintapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762984612660:android:0582f325d1a43cae",
+        "android_client_info": {
+          "package_name": "logicturtle.grandmintapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762984612660-g46045btt1tn49lr7h6aiiftlpmd5gf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "logicturtle.grandmintapp",
+            "certificate_hash": "2f8709202cf105cc15b6fb71daaa8f4fbc4468a0"
+          }
+        },
+        {
+          "client_id": "762984612660-cp47afu311krokui2lbs7745i42ladgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8XRBRVbkEYeyBGVCMiSlIRn0NMDDic0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762984612660-cp47afu311krokui2lbs7745i42ladgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GrandMintApp</string>
+    <string name="email_not_verified">Your email is not verified yet. Visit your email and verify your account. </string>
+</resources>
